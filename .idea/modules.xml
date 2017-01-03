@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/perxin.iml" filepath="$PROJECT_DIR$/perxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perxin-api/perxin-api.iml" filepath="$PROJECT_DIR$/perxin-api/perxin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perxin-core/perxin-core.iml" filepath="$PROJECT_DIR$/perxin-core/perxin-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perxin-web/perxin-web.iml" filepath="$PROJECT_DIR$/perxin-web/perxin-web.iml" />
+    </modules>
+  </component>
+</project>

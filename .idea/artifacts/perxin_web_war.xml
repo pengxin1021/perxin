@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="perxin-web:war">
+    <output-path>$PROJECT_DIR$/perxin-web/target</output-path>
+    <root id="archive" name="perxin.war">
+      <element id="artifact" artifact-name="perxin-web:war exploded" />
+    </root>
+  </artifact>
+</component>
